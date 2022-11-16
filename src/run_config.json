@@ -1,5 +1,5 @@
 {
-  "ENGINE": "solid",
+  "ENGINE": "cadquery",
   "save_dir": ".",
   "overrides": "",
   "save_name": "",
@@ -20,7 +20,7 @@
   "column_style": "standard",
   "full_last_rows": false,
   "keyboard_z_offset": 21,
-  "thumb_style": "TRACKBALL_BTU",
+  "thumb_style": "TRACKBALL_WILD",
   "default_1U_cluster": true,
   "trackball_in_wall": false,
   "tbiw_ball_center_row": 0.2,
@@ -306,7 +306,7 @@
     [ 
       0, 
       4.0, 
-      -4.5 
+      -2.5 
     ], 
     [ 
       0, 
@@ -315,27 +315,7 @@
     ], 
     [ 
       0, 
-      -6, 
-      5 
-    ], 
-    [ 
-      0, 
-      -6, 
-      5 
-    ], 
-    [ 
-      0, 
-      -6, 
-      5 
-    ], 
-    [ 
-      0, 
-      -6, 
-      5 
-    ], 
-    [ 
-      0, 
-      -6, 
+      -13, 
       5 
     ] 
   ],
