@@ -1,5 +1,5 @@
 {
-  "ENGINE": "cadquery",
+  "ENGINE": "simple",
   "save_dir": ".",
   "overrides": "",
   "save_name": "",
@@ -20,7 +20,7 @@
   "column_style": "standard",
   "full_last_rows": false,
   "keyboard_z_offset": 21,
-  "thumb_style": "TRACKBALL_WILD",
+  "thumb_style": "MINIDOX",
   "default_1U_cluster": true,
   "trackball_in_wall": false,
   "tbiw_ball_center_row": 0.2,
@@ -295,7 +295,7 @@
   "column_offsets": [
     [ 
       0, 
-      0, 
+      -3, 
       0 
     ], 
     [ 
